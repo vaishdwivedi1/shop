@@ -1,0 +1,168 @@
+@import url("https://fonts.googleapi.com/css?family=Open+Sans:700,600|Inter:400");
+
+/* --font-family-opensans:"Open Sans"; */
+
+.logo {
+    height: 84px;
+    width: 221px;
+}
+
+.welcome_text {
+    letter-spacing: 0;
+    line-height: normal;
+    transform: rotate(90deg);
+    min-height: 245px;
+}
+
+.left {
+    background-color: rgba(98, 204, 182, 1);
+    border: 1px none;
+    width: 386px;
+    height: 150vh;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.welocome_text {
+    color: rgba(255, 255, 255, 0.666);
+    /* font-family: ; */
+    font-size: 180px;
+    font-weight: 700;
+    font-style: normal;
+    transform: rotate(90deg);
+    right: 0;
+}
+
+.second {
+    left: 454px;
+    letter-spacing: 0;
+    line-height: normal;
+    top: 550px;
+    position: absolute;
+    font-size: 28px;
+}
+
+.main {
+    left: 454px;
+    letter-spacing: 0;
+    line-height: normal;
+    top: 386px;
+    position: absolute;
+}
+
+.flex-col {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 121.15px;
+    min-width: 586px;
+    width: 164px;
+}
+
+
+/* .right{
+
+} */
+
+.indoorImg {
+    height: 219px;
+    object-fit: cover;
+    width: 164px;
+}
+
+.flex-col-item {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: 11px;
+    text-align: center;
+    width: 82px;
+}
+
+.popularImg {
+    height: 219px;
+    margin-top: 72px;
+    object-fit: cover;
+    width: 164px;
+}
+
+.flex-col-1 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    margin-top: 61.62px;
+    min-height: 942px;
+    width: 258px;
+    right: 0;
+}
+
+.flex-row-1 {
+    align-items: center;
+    align-self: flex-end;
+    display: flex;
+    gap: 20px;
+    margin-right: 13.94px;
+    min-width: 182px;
+}
+
+.search-products {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-bottom: 2.09px;
+    min-height: 18px;
+    width: 137px;
+}
+
+.vector {
+    height: 25px;
+    width: 25px;
+}
+
+.line-4 {
+    align-self: flex-end;
+    height: 1px;
+    margin-top: 12px;
+    width: 196px;
+}
+
+.outdoorImg {
+    height: 227px;
+    margin-top: 85px;
+    object-fit: cover;
+    width: 170px;
+}
+
+.limitedImg {
+    align-self: flex-end;
+    height: 209px;
+    object-fit: cover;
+    width: 159px;
+}
+
+.outdoor {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 38.42px;
+    margin-top: 11px;
+    text-align: center;
+    width: 93px;
+}
+
+.flex-row-2 {
+    align-items: flex-start;
+    align-self: flex-end;
+    display: flex;
+    gap: 52px;
+    height: 280px;
+    margin-top: 12px;
+    min-width: 247px;
+}
+
+.limited {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 25.29px;
+    margin-top: 25px;
+    text-align: center;
+    width: 119px;
+}
